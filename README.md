@@ -1,5 +1,5 @@
 # simple-portfolio
-a simple portfolio built using framework bootsrap v3.4 and jquery 3.5
+a simple portfolio built using framework bootstrap v3.4 and jquery 3.5
 
 This code iam get from youtube "Web Programming Unpas" https://www.youtube.com/c/WebProgrammingUNPAS .
 iam change this code according to my needs. of course, this website is far from perfect.
